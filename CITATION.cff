@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the corresponding review paper and the project repository."
+title: "5G Secure Network Architecture — SDN Security Laboratory"
+version: "1.0.0"
+date-released: "2026-09-24"
+authors:
+  - family-names: Olufemi
+    given-names: David
+    affiliation: "Department of Computer Science & Engineering, University of Fairfax, USA"
+  - family-names: Ejiade
+    given-names: Ayodeji Olutosin
+    affiliation: "Department of Computer, Texas Tech University, USA"
+  - family-names: Ikwuogu
+    given-names: Friday Ogochukwu
+    affiliation: "Department of Computer Science, University of Texas Permian Basin, Texas, USA"
+    orcid: "https://orcid.org/0009-0009-2222-1318"
+    website: "https://github.com/foikwuogu"
+  - family-names: Olufemi
+    given-names: Phebe E.
+    affiliation: "Ahmadu Bello University, Zaria, Nigeria"
+  - family-names: Bobie-Ansah
+    given-names: Deligent
+    affiliation: "Information and Telecommunication Systems, Ohio University, United States"
+url: "https://github.com/foikwuogu/5g-secure-network-architecture"
+repository-code: "https://github.com/foikwuogu/5g-secure-network-architecture"
+abstract: "Synthetic SDN security research laboratory aligned to the review paper Securing Software-Defined Networks (SDN) Against Emerging Cyber Threats in 5G and Future Networks — A Comprehensive Review."
+keywords:
+  - 5g
+  - sdn
+  - network-security
+  - zero-trust
+  - cyber-threats
+  - future-networks
+references:
+  - type: article
+    authors:
+      - family-names: Olufemi
+        given-names: David
+      - family-names: Ejiade
+        given-names: Ayodeji Olutosin
+      - family-names: Ikwuogu
+        given-names: Friday Ogochukwu
+      - family-names: Olufemi
+        given-names: Phebe E.
+      - family-names: Bobie-Ansah
+        given-names: Deligent
+    title: "Securing Software-Defined Networks (SDN) Against Emerging Cyber Threats in 5G and Future Networks — A Comprehensive Review"
+    journal: "ResearchGate"
+    year: 2025
+    url: "https://www.researchgate.net/publication/389946028_Securing_Software-Defined_Networks_SDN_Against_Emerging_Cyber_Threats_in_5G_and_Future_Networks_-A_Comprehensive_Review"
